@@ -1,6 +1,6 @@
 /******************************************************************
 Copyright © Deng Zhimao Co., Ltd. 1990-2021. All rights reserved.
-* @projectName   03_serialport
+* @projectName   embdSerialportQt
 * @brief         mainwindow.cpp
 * @author        Deng Zhimao
 * @email         1252699831@qq.com
@@ -10,7 +10,7 @@ Copyright © Deng Zhimao Co., Ltd. 1990-2021. All rights reserved.
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 
-#define SERIALPORT_QT_VERSION "1.0.4"
+#define SERIALPORT_QT_VERSION "1.0.5"
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)

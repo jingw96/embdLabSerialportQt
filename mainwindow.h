@@ -1,6 +1,6 @@
 /******************************************************************
 Copyright © Deng Zhimao Co., Ltd. 1990-2021. All rights reserved.
-* @projectName   03_serialport
+* @projectName   embdSerialportQt
 * @brief         mainwindow.h
 * @author        Deng Zhimao
 * @email         1252699831@qq.com
